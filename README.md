@@ -1,1 +1,3 @@
 This is a simple visual copy of the google homepage using html and CSS.
+
+Over the course of building this page, I encountered challenges in positioning elements of the page where I needed them to be. The biggest challenge in this regard was learning the different display property values and how they interact with other elements of the page - In particular inline and inline-block. Additionally, I learned the importance of using div to separate your code in a structured way. I will keep that in mind moving forward.
